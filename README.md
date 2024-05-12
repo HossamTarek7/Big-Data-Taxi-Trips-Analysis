@@ -25,6 +25,6 @@ Through this analysis, we gain insights into various aspects of taxi trips data,
 
 The project aims to showcase the power of big data analytics in understanding and deriving meaningful insights from large-scale transportation data.
 
-**Contributors:** Salma Waleed
+## **Contributors:** Salma Waleed
 
 Feel free to explore the notebooks for detailed code implementations, visualizations, and analysis steps.
