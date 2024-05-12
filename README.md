@@ -3,6 +3,9 @@
 ## Project Overview
 This project involves in-depth analysis and exploration of taxi trips data using big data tools and techniques. The analysis is divided into three main parts: data cleaning, data visualization, and machine learning.
 
+## Dataset
+The taxi trips dataset used in this analysis is available on Kaggle: [Taxi Trips Dataset](https://www.kaggle.com/datasets/anandshaw2001/taxi-dataset)
+
 ## Notebooks
 
 ### Data Cleaning Notebook
